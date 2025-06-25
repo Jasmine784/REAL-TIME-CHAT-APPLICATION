@@ -27,3 +27,8 @@ The app stores messages in an array within the Vue component's state. Each new m
 The project is built to connect to a public WebSocket server for testing purposes, but it can be easily customized to connect to a personal or private WebSocket server. By updating the WebSocket URL in the script.js file, developers can integrate the chat into their own systems.
 
 This project serves as a solid foundation for building interactive, real-time communication applications with Vue.js and WebSockets.
+
+
+OUTPUT:
+
+![CHAT](https://github.com/user-attachments/assets/7bf96821-eff9-42a3-a62f-1191c776dc1a)
